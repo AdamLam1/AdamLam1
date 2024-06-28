@@ -19,9 +19,9 @@
 - **Email**: [adamlam1@wp.pl](mailto:adamlam1@wp.pl)
 - **GitHub**: [GitHub Profile](https://github.com/AdamLam1)
 
-## GitHub Stats 📈 & Top Languages 🏆
+## Top Languages 🏆
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamlam1&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlam1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlam1&layout=compact&theme=radical)
 
 
 
