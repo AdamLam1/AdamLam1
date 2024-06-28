@@ -1,6 +1,4 @@
-# Hi there, I'm Adam! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=adamlam1&color=brightgreen)
+# Hi there, I'm Adam! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=adamlam1&color=brightgreen)
 
 ## About Me 🧑‍💻
 
