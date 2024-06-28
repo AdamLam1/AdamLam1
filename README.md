@@ -7,7 +7,6 @@
 - **Name:** Adam
 - **Age:** 22
 - **Location:** 🌍 Poznań, Poland
-- **Occupation:** JavaScript Developer
 
 ## Languages & Technologies 🚀
 
