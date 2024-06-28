@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Adam! 👋
 
-<!--
-**AdamLam1/AdamLam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=adamlam1&color=brightgreen)
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Adam
+- **Age:** 22
+- **Location:** 🌍 Poznań, Poland
+- **Occupation:** JavaScript Developer
+
+## Languages & Technologies 🚀
+
+- **JavaScript**: Node.js, React
+- **Tools**: Git, npm, VSCode
+- **Interests**: Web Development, Open Source
+
+## Contact Me 📫
+
+- **Email**: [adamlam1@wp.pl](mailto:adamlam1@wp.pl)
+- **GitHub**: [GitHub Profile](https://github.com/AdamLam1)
+
+## GitHub Stats 📈
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamlam1&show_icons=true&theme=radical)
+
+## Top Languages 🏆
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlam1&layout=compact&theme=radical)
+
+## Hobbies & Interests 🎨
+
+- Coding 💻
+- Gaming 🎮
+- Music 🎵
+
+---
+
+⭐️ From [Adam](https://github.com/AdamLam1)
