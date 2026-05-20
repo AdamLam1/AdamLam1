@@ -8,13 +8,13 @@
 
 ## Languages & Technologies 🚀
 
-- **JavaScript**: Node.js, React
+- **JavaScript**: Node.js, React, Next
 - **Tools**: Git, npm, VSCode
 - **Interests**: Web Development, Open Source
 
 ## Contact Me 📫
 
-- **Email**: [adamlam1@wp.pl](mailto:adamlam1@wp.pl)
+- **Email**: [dev@adamlam.pl](mailto:dev@adamlam.pl)
 - **GitHub**: [GitHub Profile](https://github.com/AdamLam1)
 
 ## Top Languages 🏆
