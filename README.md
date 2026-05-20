@@ -3,7 +3,7 @@
 ## About Me 🧑‍💻
 
 - **Name:** Adam
-- **Age:** 22
+- **Age:** 24
 - **Location:** 🌍 Poznań, Poland
 
 ## Languages & Technologies 🚀
