@@ -8,9 +8,10 @@
 
 ## Languages & Technologies 🚀
 
-- **JavaScript**: Node.js, React, Next
+- **C++*
+- **JavaScript**: Node.js, React, NextJS
 - **Tools**: Git, npm, VSCode
-- **Interests**: Web Development, Open Source
+- **Interests**: Web Development, Game Development. Open Source
 
 ## Contact Me 📫
 
